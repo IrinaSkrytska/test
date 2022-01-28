@@ -1,0 +1,13 @@
+.footer__title {
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: uppercase;
+  color: #ffa5ba;
+}
+.footer__title__color {
+  font-size: 34px;
+  line-height: 39px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #d41443;
+}
