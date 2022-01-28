@@ -11,3 +11,14 @@
   text-transform: uppercase;
   color: #d41443;
 }
+.footer__contact {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: right;
+  color: #000000;
+}
+.footer__contact-phone {
+  color: #d41443;
+}
