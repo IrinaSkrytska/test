@@ -32,3 +32,6 @@
   display: flex;
   flex-wrap: wrap;
 }
+.footer-links {
+  display: flex;
+}
