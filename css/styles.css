@@ -28,3 +28,7 @@
   text-align: center;
   color: #907e82;
 }
+.footer__description {
+  display: flex;
+  flex-wrap: wrap;
+}
