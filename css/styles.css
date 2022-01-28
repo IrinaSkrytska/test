@@ -28,7 +28,7 @@
   text-align: center;
   color: #907e82;
 }
-.footer__description {
+.footer__info {
   display: flex;
   flex-wrap: wrap;
 }
